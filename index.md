@@ -17,7 +17,7 @@ Scopo dell'investitore è massimizzare il ritorno e ridurre i rischi. Ci sono es
 
 Se non ti sono chiari questi principi non spaventarti, ora li spiegheremo uno per volta. Prima di cominciare, però, lasciami spiegare che
 con il termine **Asset** si intende una qualunque entità (es. azioni, obbligazioni, materie prime, arte, immobili, attività imprenditoriale, ecc.) 
-su cui è possibile investire cercando di ottenere un profitto dopo un certo tempo. 
+su cui è possibile investire soldi cercando di ottenere un profitto dopo un certo tempo. 
 
 ## Diversificare gli investimenti
 
@@ -32,12 +32,11 @@ medesimo asset, perché se quell'asset subisce un crollo l'investitore perderebb
 ## Investire tenendo conto dei cicli economici
 
 L'economia è fondamentalmente una macchina che funziona a cicli che, tipicamente, durano 3 o 4 anni. In alcuni cicli alcuni asset funzionano meglio
-di altri, per cui ha senso pensare di comprendere come identificare questi cicli e aumentare la posizione sugli asset che funzionano meglio in 
-questi cicli, riducendo gli altri.
+di altri, per cui ha senso pensare di comprendere come identificare questi cicli e aumentare gli investimenti (in gergo si dice "aumentare la posizione")
+sugli asset che funzionano meglio in questi cicli, riducendo gli altri. 
 
 Il funzionamento è simile all'agricoltura che ogni anno ha 4 cicli diversi: le stagioni. Un contadino, per ogni stagione, sa quando conviene seminare
-un dato ortaggio e la stagione in cui raccoglierlo. Per l'economia non è diverso anche se identificare i cicli è meno prevedibile che identificare
-le stagioni.
+un dato ortaggio e quando raccoglierlo. Per l'economia non è diverso anche se identificare i cicli è meno prevedibile.
 
 ## Investire tenendo conto del valore di mercato di un Asset
 
@@ -52,14 +51,15 @@ Investire in asset in valuta diversa dalla proprio è ovviamente possibile, l'im
 
 ## Avere un piano
 
-Negli investimenti esiste senza dubbio una componente psicologica. Ogni volta che fai un investimento e lo monitori le emozioni iniziano a giocare un
-ruolo fondamentale. È facile che quando le cose vanno bene sei felice e magari vuoi aumentare la posizione su un dato asset che sta andando bene. Allo
+Negli investimenti esiste senza dubbio una componente psicologica. Ogni volta che fai un investimento e lo monitori, le emozioni iniziano a giocare un
+ruolo fondamentale. È facile che quando le cose vanno bene sei felice e magari vuoi aumentare la posizione su quell'asset. Allo
 stesso tempo un crollo delle quotazioni potrebbe spaventarti e spingerti a liquidare la posizione. L'aspetto psicologico è anch'esso un rischio
-per l'investitore perché spinge a prendere decisioni in base all'emotività invece che su base razionale. L'unico modo per ridurre questi rischi è avere
+per l'investitore perché spinge a prendere decisioni in base all'emotività invece che in base ai dati. L'unico modo per ridurre questi rischi è avere
 un piano chiaro fin dall'inizio e seguirlo sempre.
 
 ## Conclusioni
 
 Fare un buon investimento significa capire quale possa essere il suo ritorno e il rischio che si corre per ottenerlo. Per ridurre questi rischi è bene
 diversificare i propri investimenti su asset diversi, tenendo conto dei cicli economici, acquistando asset quando sono a buon mercato e vendendoli quando
-sono sopravvalutati 
+sono sopravvalutati. Se il nostro investimento è fatto su asset venduti in una moneta diversa dalla nostra tener conto del rischio cambio. Infine, 
+è importante ricordarsi che siamo essere umani e, in quanto tali, soggetti all'emotività e l'unico modo per non esserne soggiogato è avere un piano.
