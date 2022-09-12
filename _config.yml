@@ -1,3 +1,9 @@
+title: Come investire i tuoi risparmi?
+email: sasadangelo@gmail.com
+description: Una guida per i tuoi investimenti
+base_url: "investire"
+url: ""
+
 collections:
   authors:
     output: true
