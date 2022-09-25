@@ -38,7 +38,7 @@ Inflazione e Volatilità sono due rischi da considerare sempre in qualsiasi inve
 
 Quando l'Inflazione è alta (es. 5% in un anno) anche un buon investimento con un
 ritorno del 4% potrebbe risultare non sufficiente perché alla fine si ha una perdita del potere di acquisto di 1%. Per questo motivo l'investitore
-deve sempre essere al corrente dei tassi di inflazioni in un dato periodo e investire in modo tale da assorbire le perdite di potere di acquisto dovute ad essa.
+deve sempre essere al corrente dei tassi di inflazione in un dato periodo e investire in modo tale da assorbire le perdite di potere di acquisto dovute ad essa.
 
 L'altro elemento di rischio è la Volatilità. Con questo termine si intende l'oscillazione di prezzo, in un dato periodo, intorno al suo valore medio.
 Conoscere la Volatilità di un asset è fondamentale per capire la perdita massima che si può avere in un dato investimento e la probabilità che ciò avvenga.
@@ -73,8 +73,8 @@ non comporterà, necessariamente, la diminuizione di altri Asset nel proprio por
 ## Investire non è un gioco a somma zero
 
 Qualcuno potrebbe pensare, a questo punto, che alla fine il portafoglio diventi un gioco a somma zero dove tra Asset che guadagnano e Asset che perdono il
-guadagno totale è pressoché nullo. Se si ha in portafoglio un paio di Azioni che performano bene, un paio mediocri e cinque pessime, è facile che le prime
-raddoppino o triplichino il proprio valore mentre è difficile che un'azione arrivi alla bancarotta.
+guadagno totale è pressoché nullo. Fortunatamente non è così, se si ha in portafoglio un paio di Azioni che performano bene, un paio mediocri e cinque pessime, 
+è facile che le prime raddoppino o triplichino il proprio valore mentre è difficile che un'azione arrivi alla bancarotta.
 
 ## Conclusioni
 
