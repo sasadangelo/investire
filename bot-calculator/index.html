@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8">
+    <title>Calcolatore BOT</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Calcolatore BOT</h1>
+      <form id="calc-form">
+        <label for="prezzo-unitario">Prezzo Unitario (EUR) *:</label>
+        <input type="number" id="prezzo-unitario" step="0.001" required>
+        <label for="lotto">Lotto (EUR) *:</label>
+        <input type="number" id="lotto" step="0.01" required>
+        <label for="commissione-eseguito">Commissione Eseguito (EUR) *:</label>
+        <input type="number" id="commissione-eseguito" step="0.01" value="0.50">
+        <label for="commissione-intermediario">Commissione Intermediario (EUR) *:</label>
+        <input type="number" id="commissione-intermediario" step="0.01" value="3.00">
+        <button type="submit">Calcola</button>
+      </form>
+      <div id="risultati" style="display: none;">
+        <ul>
+          <li><label for="prezzo-calcolato">Prezzo (EUR): </label><span id="prezzo-calcolato"></span></li>
+          <li><label for="commissione">Commissione (EUR): </label><span id="commissione"></span></li>
+          <li><label for="commissioni-totale">Commissioni Totale (EUR): </label><span id="commissioni-totale"></span></li>
+          <li><label for="imposta">Imposta Rateo (EUR):</label><span id="imposta"></span></li>
+          <li><label for="totale-spesa">Totale Spesa (EUR):</label><span id="totale-spesa"></span></li>
+          <li><label for="ricavo">Ricavo (EUR): </label><span id="ricavo"></span></li>
+          <li><label for="guadagno">Guadagno (EUR): </label><span id="guadagno"></span></li>
+          <li><label for="rendimento-netto">Rendimento Netto: </label><span id="rendimento-netto"> %</span></li>
+        </ul>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
