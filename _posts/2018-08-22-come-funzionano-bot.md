@@ -31,23 +31,23 @@ I rendimenti dei BOT dipendono dalla durata dell'investimento e dal tasso di int
 
 Il guadagno lordo di un BOT corrisponde alla differenza tra il valore nominale del titolo (100 euro) e il prezzo di acquisto. Ad esempio, se un investitore acquista un BOT da 100 euro ad un prezzo di 95 euro, il suo guadagno lordo sarà pari a 5 euro.
 
-Guadagno Lordo = Valore Nominale - Prezzo di Acquisto
+$$Guadagno Lordo = Valore Nominale - Prezzo di Acquisto$$
 
 Il rendimento lordo di un BOT indica invece il tasso di interesse effettivo del titolo, ovvero il guadagno lordo espresso in percentuale rispetto al prezzo di acquisto. Per calcolare il rendimento lordo di un BOT si utilizza la seguente formula:
 
-Rendimento Lordo = (Guadagno Lordo / Prezzo di acquisto) x (365 / giorni residui alla scadenza)
+$$Rendimento Lordo = (Guadagno Lordo * 100 / Prezzo di acquisto) x (365 / giorni residui alla scadenza)$$
 
 dove "giorni residui alla scadenza" indica il numero di giorni che mancano alla scadenza del BOT.
 
 Ad esempio, se un investitore acquista un BOT a un prezzo di 95 euro con scadenza a 1 anno e un guadagno lordo di 5 euro, il rendimento lordo sarà calcolato come segue:
 
-Rendimento Lordo = (5 / 95) x (365 / 365) = 5,26%
+Rendimento Lordo = (5 * 100 / 95) x (365 / 365) = 5,26%
 
 Nel caso di BOT con scadenze di 6 mesi o 3 mesi, la formula per il calcolo del rendimento lordo rimane la stessa, ma si deve considerare il numero di giorni residui alla scadenza a seconda del periodo di durata del titolo.
 
 Ad esempio, se un investitore acquista un BOT a un prezzo di 98 euro con scadenza a 6 mesi, il rendimento lordo sarà calcolato come segue:
 
-Rendimento Lordo = (2 / 98) x (365 / 182) = 0,020 * 2,005 = 0,0401 ossia 4,1%
+Rendimento Lordo = (2 * 100 / 98) x (365 / 182) = 2,04 * 2,005 = 4,09 ossia 4,1%
 
 Per un BOT a 3 mesi il calcolo è analogo solo che vanno considerati 91 giorni residui.
 
