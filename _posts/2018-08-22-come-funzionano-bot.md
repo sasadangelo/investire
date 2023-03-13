@@ -35,25 +35,25 @@ $$Guadagno Lordo = Valore Nominale - Prezzo di Acquisto$$
 
 Il rendimento lordo di un BOT indica invece il tasso di interesse effettivo del titolo, ovvero il guadagno lordo espresso in percentuale rispetto al prezzo di acquisto. Per calcolare il rendimento lordo di un BOT si utilizza la seguente formula:
 
-$$Rendimento Lordo = (Guadagno Lordo * 100 / Prezzo di acquisto) x (365 / giorni residui alla scadenza)$$
+$$Rendimento Lordo = (Guadagno Lordo * 100 / Prezzo di Acquisto) x (365 / Giorni Residui Scadenza)$$
 
-dove "giorni residui alla scadenza" indica il numero di giorni che mancano alla scadenza del BOT.
+dove "Giorni Residui Scadenza" indica il numero di giorni che mancano alla scadenza del BOT.
 
 Ad esempio, se un investitore acquista un BOT a un prezzo di 95 euro con scadenza a 1 anno e un guadagno lordo di 5 euro, il rendimento lordo sarà calcolato come segue:
 
-Rendimento Lordo = (5 * 100 / 95) x (365 / 365) = 5,26%
+$$Rendimento Lordo = (5 * 100 / 95) x (365 / 365) = 5,26%$$
 
 Nel caso di BOT con scadenze di 6 mesi o 3 mesi, la formula per il calcolo del rendimento lordo rimane la stessa, ma si deve considerare il numero di giorni residui alla scadenza a seconda del periodo di durata del titolo.
 
 Ad esempio, se un investitore acquista un BOT a un prezzo di 98 euro con scadenza a 6 mesi, il rendimento lordo sarà calcolato come segue:
 
-Rendimento Lordo = (2 * 100 / 98) x (365 / 182) = 2,04 * 2,005 = 4,09 ossia 4,1%
+$$Rendimento Lordo = (2 * 100 / 98) x (365 / 182) = 2,04 * 2,005 = 4,09 %$$
 
 Per un BOT a 3 mesi il calcolo è analogo solo che vanno considerati 91 giorni residui.
 
 È importante sottolineare che il guadagno lordo non rappresenta il denaro effettivo che l'investitore si mette in tasca, poiché dal guadagno lordo andranno detratti le commissioni e le imposte. Tuttavia, il rendimento lordo è un indicatore utile per confrontare i BOT con altre forme di investimento, in quanto tiene conto solo del guadagno generato dal titolo, senza l'influenza delle quantità, commissioni e delle tasse.
 
-## Parametri di un BOT
+## Parametri di un BOT
 
 Il più delle volte l'investitore acquista il BOT sul mercato secondario a un Prezzo di Acquisto diverso da quello di Emissione, così come pure la transazione potrà avvenire in una data posteriore a quella di emissione. In tal caso è necessario conoscere alcuni parametri del BOT per valutare meglio il guadagno e rendimento lordo.
 
@@ -71,31 +71,35 @@ Questi sono alcuni parametri da considerare quando si valuta un BOT:
 
 Conoscere questi parametri è fondamentale perché consente di calcolare con precisione il Guadagno e Rendimento Lordo. Ad esempio, supponiamo di considerare il seguente BOT realmente da me acquistato presso la Banca San Paolo:
 
-Nome: BOT 14FB24 ANN
-ISIN: IT0005532988
-Data emissione: 14/02/2023
-Prezzo emissione: 96,877
-Scadenza: 14/02/2024
-Data acquisto: 27/02/2023
-Data di regolamento: 01/03/2023
-Prezzo di acquisto: 96,846
-Lotto: 5000
+* **Nome**: BOT 14FB24 ANN
+* **ISIN**: IT0005532988
+* **Data emissione**: 14/02/2023
+* **Prezzo emissione**: 96,877
+* **Scadenza**: 14/02/2024
+* **Data acquisto**: 27/02/2023
+* **Data di regolamento**: 01/03/2023
+* **Prezzo di acquisto**: 96,846
+* **Lotto**: 5000
 
 In questo caso, il Guadagno e Rendimento Lordo a 1 Anno sono:
 
-Quantità = Lotto/100 = 50
-Guadagno Lordo = (Valore Nominale - Prezzo di Acquisto) = 100 - 96,846 = 3,154 Euro
-Guadagno Lordo Totale = Guadagno Lordo * Quantità = 3,154 * 50 = 157,7
+$$Quantità = Lotto/100 = 50$$
 
-Rendimento BOT 1 Anno = [Guadagno Lordo / Prezzo di Acquisto] x (365 / giorni residui alla scadenza)= [3,154/96,846] x [365/300] = 0,032 x 1,21 = 0,0038 ossia il 3,8%.
+$$Guadagno Lordo = (Valore Nominale - Prezzo di Acquisto) = 100 - 96,846 = 3,154 Euro$$
 
-È importante notare che i giorni residui sono il numero di giorni dalla Data di Regolamento (e non della Data di Acquisto) fino alla Scadenza. Nel nostro caso sono 300 giorni.
+$$Guadagno Lordo Totale = Guadagno Lordo * Quantità = 3,154 * 50 = 157,7$$
+
+$$Rendimento BOT 1 Anno = [Guadagno Lordo * 100 / Prezzo di Acquisto] x (365 / Giorni Residui Scadenza)= [315,4/96,846] x [365/300] = 3,2 x 1,21 = 3,8 % $$
+
+È importante notare che i "Giorni Residui Scadenza" sono il numero di giorni dalla Data di Regolamento (e non della Data di Acquisto) fino alla Scadenza. Nel nostro caso sono 300 giorni.
 
 Se avessi acquistato il BOT il giorno dell'emissione è chiaro che il Guadagno e Rendimento Lordo sarebbero stati leggermenti diversi (bisogna usare in questo caso il Prezzo di Emissione invece del Prezzo di Acquisto) così come anche il Guadagno Lordo Totale. Ad esempio, avrei ottenuto i seguenti valori:
 
-Guadagno Lordo (Emissione) = (Valore Nominale - Prezzo di Emissione) = 100 - 96,877 = 3,123 Euro
-Guadagno Lordo Totale (Emissione) = Guadagno Lordo * Quantità = 3,123 * 50 = 156,15
-Rendimento BOT 1 Anno (Emissione) = [Guadagno Lordo / Prezzo di Emissione] x (365 / 365)= [3,154/96,846] x [365/300] = 0,032 x 1 = 0,0032 ossia il 3,2%.
+$$Guadagno Lordo (Emissione) = (Valore Nominale - Prezzo di Emissione) = 100 - 96,877 = 3,123 Euro$$
+
+$$Guadagno Lordo Totale (Emissione) = Guadagno Lordo * Quantità = 3,123 * 50 = 156,15$$
+
+$$Rendimento BOT 1 Anno (Emissione) = [Guadagno Lordo * 100 / Prezzo di Emissione] x (365 / 365)= [315,4/96,846] x [365/300] = 3,2 x 1 = 3,2 % $$
 
 ## Le Commissioni
 
@@ -113,11 +117,11 @@ Ad esempio, consideriamo sempre i BOT da me acquistati realmente della sezione p
 
 La spesa da me sostenuto è stata di:
 
-Spesa = Prezzo di Acquisto * Quantità = 96,846 * 50 = 4842,3 Euro
+$$Spesa = Prezzo di Acquisto * Quantità = 96,846 * 50 = 4842,3 Euro$$
 
 La mia Banca su questa spesa ha applicato una commissione dello 0,24% con un minimo di 3 Euro, quindi il costo della commissione è:
 
-Commissione = (Spesa * 0.24)/100 = 11,62 Euro
+$$Commissione = (Spesa * 0.24)/100 = 11,62 Euro$$
 
 Se avessi comprato un Lotto da 1000 allora la Commissione sarebbe stata di 2,32 Euro e quindi la Banca avrebbe applicato la commissione minima di 3 Euro. In pratica la Banca, per ogni transazione, vuole guadagnare almeno 3 Euro.
 
@@ -128,11 +132,11 @@ Purtroppo non finisce qua, generalmente oltre alla propria commissione le Banche
 
 Ad esempio, San Paolo nel giorno in cui sto scrivendo prevede una Commissione per Eseguito di 0,50 Euro e 3 Euro di Costi di Intermediazioni, questi sono costi fissi. Quindi nell mio esempio il costo totale delle commissioni è uguale a:
 
-Totale Commissioni = Commissione + Costi per Eseguito + Costi di Intermediazione = 11,62 + 0,50 + 3 = 15,12 Euro.
+$$Totale Commissioni = Commissione + Costi per Eseguito + Costi di Intermediazione = 11,62 + 0,50 + 3 = 15,12 Euro$$
 
 Quindi il Guadagno Netto (pre Imposte) è uguale a:
 
-Guadagno Netto (pre Imposte) = Guadagno Lordo Totale - Totale Commissioni = 157,7 - 15,12 = 142,58.
+$$Guadagno Netto (pre Imposte) = Guadagno Lordo Totale - Totale Commissioni = 157,7 - 15,12 = 142,58$$
 
 Tuttavia, questo Guadagno Netto non sono ancora i soldi che effettivamente ho messo in tasca perché su di esso va pagata l'imposta di legge che è del 12,5%.
 
@@ -142,13 +146,13 @@ Uno dei vantaggi dei BOT è quello ddi poter prevedere in anticipo il Guadagno e
 
 Considerando il BOT da me acquistato (ISIN IT0005532988) se  lo avessi acquistato in fase di emissione il calcolo della detrazione sarebbe stato abbastanza semplice perché basta applicare l'aliquota del 12,5% (che è l'imposta cche lo Stato impone sui BOT) al Guadagno Lordo Totale in fase di emissione:
 
-Imposta = [Guadagno Lordo Totale (Emissione) * 0,125] = 156,15 * 12,5 / 100 = 19,51 Euro
+$$Imposta = [Guadagno Lordo Totale (Emissione) * 0,125] = 156,15 * 12,5 / 100 = 19,51 Euro$$
 
 Questa è l'imposta che il primo acquirente del mio BOT ha pagato in fase di emissione. Tuttavia, se a pagare le imposte fossero solo i primi acquirenti tutti aspetterebbero di essere i secondi e successivi e, quindi, lo Stato non riuscirebbe a vendere i propri BOT.
 
 Per questo motivo l'Imposta viene pagata da tutti gli utenti in proporzione uguale al numero dei giorni posseduti, per cui la formula più generale diventa:
 
-Imposta = [Guadagno Lordo Totale (Emissione) * 0,125] * [giorni residui alla scadenza / 365] = [156,15 * 0,125] * [350/365] = 18,72 
+$$Imposta = [Guadagno Lordo Totale (Emissione) * 0,125] * [giorni residui alla scadenza / 365] = [156,15 * 0,125] * [350/365] = 18,72$$
 
 Questa formula più generale nel caso di acquisto in fase di emissione diventa quella più semplice di sopra perchè il secondo numero tra parentesi quadre è 1.
 
