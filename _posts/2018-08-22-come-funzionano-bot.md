@@ -5,7 +5,7 @@ author: ted
 
 # Come funzionano i BOT: rendimenti, rischi e parametri da considerare
 
-In quest'articolo voglio spiegare come investire in BOT, quali sono i possibili guadagni e rischi, quali sono i parametri da considerare, come calcolare il possibile guadagno e rendimento. Affinché l'articolo sia di qualche utilità utilizzerò i dati di un BOT realmente da me acquistato e mostrerò tutti gli aspetti di cui tener presente.
+In quest'articolo voglio spiegare come investire in BOT, quali sono i possibili guadagni e rischi, quali sono i parametri da considerare, come calcolare il possibile guadagno e rendimento. Affinché l'articolo sia di qualche utilità, utilizzerò i dati di un BOT realmente da me acquistato e mostrerò tutti gli aspetti di cui tener presente.
 
 ## Introduzione
 
@@ -13,15 +13,15 @@ Un BOT, acronimo di Buoni Ordinari del Tesoro, è un titolo di stato emesso dal 
 
 ## Come funzionano i BOT
 
-I [BOT sono titoli di stato emessi dal Ministero dell'Economia e delle Finanze italiano](https://www.dt.mef.gov.it/it/debito_pubblico/emissioni_titoli_di_stato_interni/comunicazioni_emissioni_bot/index.html?selezione-anno=2023#selezione-anno) con l'obiettivo di finanziare l'attività pubblica del governo. La loro emissione avviene tramite un'asta mensile in cui possono partecipare solo alcuni soggetti autorizzati, come ad esempio le banche, gli intermediari finanziari e gli investitori istituzionali.
+I [BOT sono titoli di stato emessi dal Ministero dell'Economia e delle Finanze italiano](https://www.dt.mef.gov.it/it/debito_pubblico/emissioni_titoli_di_stato_interni/comunicazioni_emissioni_bot/index.html?selezione-anno=2023#selezione-anno) con l'obiettivo di finanziare l'attività pubblica del governo. La loro emissione avviene tramite un'asta mensile a cui possono partecipare gli investitori.
 
 Durante l'asta, il Ministero definisce il tasso di interesse sul BOT e gli investitori presentano le proprie offerte indicando la quantità di titoli che desiderano acquistare. L'emissione viene assegnata in base all'offerta, partendo dalle offerte con il tasso di interesse più elevato fino a raggiungere il valore massimo dell'emissione.
 
-Una volta emessi, i BOT possono essere acquistati dai piccoli investitori sul mercato secondario. Il prezzo di mercato dei BOT può variare in base all'andamento dei tassi di interesse e alla domanda degli investitori, ma l'emittente si impegna a rimborsare il valore nominale del titolo alla scadenza.
+Una volta emessi, i BOT possono essere acquistati o venduti (quindi scambiati) sul mercato secondario dai vari investitori. Il prezzo di mercato dei BOT può variare in base all'andamento dei tassi di interesse e alla domanda degli investitori, ma l'emittente si impegna a rimborsare il valore nominale del titolo alla scadenza.
 
 L'acquisto di BOT avviene in Lotti con un minimo di 1000 Euro e si possono acquistare solo Lotti multipli di 1000 (2000 Euro, 3000 Euro, ecc.). Il valore nominale di un BOT è 100 Euro che è anche il valore che il Ministero dell'Economia rimborsa alla scadenza per ciascun BOT. 
 
-Se compro un Lotto da 5000 Euro non faccio altro che comprare 50 BOT al valore nominale di 100 Euro. Ovviamente il Prezzo che pagherò per acquistare ciascun BOT deve essere inferiore al suo valore nominale affinché io possa avere un guadagno.
+Se compro un Lotto da 5000 Euro non faccio altro che comprare 50 BOT al valore nominale di 100 Euro. Ovviamente il Prezzo che pagherò per acquistare ciascun BOT deve essere inferiore al suo valore nominale affinché io possa avere un guadagno. I BOT non hanno cedole e, per questo motivo, sono obligazioni Zero Coupon.
 
 ## Rendimenti e Rischi
 

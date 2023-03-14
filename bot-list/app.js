@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	// Caricamento del file CSV
-	Papa.parse('{{ site.url }}{{ site.baseurl }}/bot-list/elenco_bot.csv', {
+	Papa.parse('https://sasadangelo.github.io/investire/bot-list/elenco_bot.csv', {
 		header: true,
 		download: true,
 		worker: true,
@@ -11,6 +11,7 @@ $(document).ready(function() {
 				columns: [
 					{ data: 'ISIN' },
 					{ data: 'Nome' },
+					{ data: 'Durata' },
 					{ data: 'Data Emissione' },
 					{ data: 'Prezzo Emissione' },
 					{ data: 'Scadenza' },
