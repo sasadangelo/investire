@@ -20,3 +20,22 @@ td, th {
 	text-align: center;
 }
 
+.filter {
+	display: flex;
+	justify-content: flex-end;
+	margin-bottom: 20px;
+	position: relative;
+}
+  
+.filter label {
+	margin-right: 10px;
+	font-weight: bold;
+	line-height: 26px;
+}
+  
+.filter select {
+	font-size: 16px;
+	padding: 4px;
+	border-radius: 4px;
+}
+

@@ -13,7 +13,16 @@
 <body>
 	<div class="container">
 		<h1>Elenco BOT</h1>
-		<table id="bot-table" class="table table-striped table-bordered">
+  		    <div class="filter">
+			    <label>Filtro:</label>
+			    <select id="filter-select">
+			        <option value="all">Tutti</option>
+			        <option value="quarterly">Trimestrale</option>
+			        <option value="semiannual">Semestrale</option>
+			        <option value="annual">Annuale</option>
+			    </select>
+		    </div>
+			<table id="bot-table" class="table table-striped table-bordered">
 			<thead>
 				<tr>
 					<th>Nome</th>

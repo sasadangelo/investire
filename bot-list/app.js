@@ -21,6 +21,26 @@ $(document).ready(function() {
 				pageLength: 25,
 				order: [[0, 'desc']]
 			});
+
+			// Aggiunta del filtro per la durata
+			$('#filter-select').on('change', function() {
+				var filterValue = $(this).val();
+				var filteredData = results.data.filter(function(row) {
+				if (filterValue === 'all') {
+					return true;
+				} else if (filterValue === 'quarterly') {
+					return parseInt(row['Durata']) < 32;
+				} else if (filterValue === 'semiannual') {
+					return parseInt(row['Durata']) > 176 && parseInt(row['Durata']) < 184;
+				} else if (filterValue === 'annual') {
+					return parseInt(row['Durata']) > 360;
+				}
+				});
+
+				table.clear();
+				table.rows.add(filteredData);
+				table.draw();
+			});
 		}
 	});
 });
