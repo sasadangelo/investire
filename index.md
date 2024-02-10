@@ -12,9 +12,9 @@ In queste pagine troverai consigli pensati per persone che pur non avendo molto 
 
 Cominciamo insieme questa fantastica avventura.
 
-## Ritorno vs Rischio
+## Profitto vs Rischio
 
-Un investimento di successo tiene sempre conto del fatto che a un maggior ritorno (o profitto) corrisponde sempre un maggior rischio. Scopo dell'investitore è massimizzare il ritorno e ridurre i rischi. Ci sono essenzialmente cinque principi per ottenere questo risultato.
+Un investimento di successo tiene sempre conto del fatto che a un maggior profitto (o in gergo "ritorno") corrisponde sempre un maggior rischio. Scopo dell'investitore è massimizzare il ritorno e ridurre i rischi. Ci sono essenzialmente cinque principi per ottenere questo risultato.
 
 1. Diversificare gli investimenti.
 2. Investire tenendo conto dei cicli economici.
